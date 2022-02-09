@@ -11,7 +11,7 @@ function App() {
       <IconButton edge='start' color='inherit' aria-label='menu'>
         <MenuIcon/>
       <Typography variant='h6'>
-        My web
+        store for socks sale
       </Typography>
       </IconButton>
         </Container>
